@@ -2,4 +2,4 @@
 
 TBD
 
-(no logo for now its being worked on)
+(we have a logo now yay)
